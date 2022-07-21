@@ -1,3 +1,4 @@
 ## DevOps Project 
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+
+![image](https://user-images.githubusercontent.com/7337212/180106509-f7a81c64-271b-462f-af81-60efb59337a6.png)
